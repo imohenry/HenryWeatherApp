@@ -29,7 +29,7 @@ install dependencies and run the local server
 ```
 
 ```bash
-cd henryreactweatherapp
+cd HenryweatherApp
 npm install
 npm start
 ```
